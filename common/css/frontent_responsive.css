@@ -1,0 +1,177 @@
+
+
+
+@media only screen and  (min-width:577px) and (max-width:767px){
+    .btn.btn-outline-success.my-2.my-sm-0.mr-2.m-auto {
+       display: block !important;
+   
+       margin-top: 28px !important;
+   }
+       
+       .time-digit {
+           text-align: center;
+           margin-left: 155px;
+       }
+       .time-word {
+           margin-left: 155px;
+       }
+   
+   
+   }
+   
+   
+   
+   
+   @media only screen and  (min-width:481px) and (max-width:576px){
+   
+       .btn.btn-outline-success.my-2.my-sm-0.mr-2.m-auto {
+       display: block !important;
+   
+       margin-top: 28px !important;
+   }
+       
+   
+   
+       .time-digit {
+           text-align: center;
+           margin-left: 155px;
+       }
+       .time-word {
+           margin-left: 155px;
+       }
+   
+   
+   }
+   
+   
+   
+   @media only screen and (min-width:361px) and  (max-width:480px){
+        .btn.btn-outline-success.my-2.my-sm-0.mr-2.m-auto {
+       display: block !important;
+   
+       margin-top: 28px !important;
+   }
+       
+       .time-digit {
+           text-align: center;
+           margin-left: 135px;
+       }
+       .time-word {
+           margin-left: 135px;
+       }
+   } 
+   
+   
+   @media only screen and  (max-width:360px){
+       
+       .btn.btn-outline-success.my-2.my-sm-0.mr-2.m-auto {
+       display: block !important;
+   
+       margin-top: 28px !important;
+   }
+       
+       .time-digit {
+           text-align: center;
+           margin-left: 70px;
+       }
+       .time-word {
+           margin-left: 70px;
+       }
+       
+       
+       #ticket-price-section {
+       margin-top: 0px !important;
+   }
+   .main-image {
+       width: 332px !important;
+       height: 100%;
+       overflow: hidden;
+   } 
+   
+       .main-image {
+         width: 501px!important;
+         height: 100%;
+         overflow: hidden;
+       }
+       .image-area.clearfix {
+         height: 293px;
+       } 
+   
+       .main-image img {
+         height: 100%!important;
+         height: 345px!important;
+               width: 488px;
+         border-radius: 11px;
+       } 
+       .sub-image {
+         overflow: hidden!important;
+         margin-top: 15px!important;
+       } 
+   
+       .sub-image {
+         overflow: hidden!important;
+         margin-top: 15px!important;
+      
+   
+         width: 501px;
+        
+       }  
+   
+     
+     
+       .sub-image .active {
+         width: 100px!important;
+         height: 60px;
+         border-radius: 3px;
+       }
+    
+       .sub-image .img-fluid {
+         width: 100px;
+         height: 60px;
+         border-radius: 5px;
+       }
+       
+    .ticket-price-detail.text-light {
+       margin-top: 360px;
+   } 
+   
+   
+   .ticket-price-detail.text-light {
+       margin-top: 360px;
+   } 
+   
+   .ticket-count-down p {
+       text-align: center;
+   } 
+   
+   .price-page.time-digit {
+       margin-left: 41px;
+   }
+    
+   .price-page.time-word {
+       margin-left: 24px;
+   } 
+   
+   .ticket-price-detail.text-light p {
+       text-align: center;
+   } 
+   
+   #select-ticket {
+       background: #2b2d2f;
+       margin-top: 18px;
+   }
+       
+   } 
+   
+    
+
+
+
+
+
+
+
+
+
+
+
